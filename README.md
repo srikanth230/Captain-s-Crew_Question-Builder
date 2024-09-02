@@ -1,8 +1,8 @@
-Overview
+##Overview
 The Automated Question Builder is an AI-driven web application designed to streamline the creation and management of quizzes and assessments. This tool is tailored for educators, trainers, and content developers to generate customized questions efficiently, saving time while enhancing the learning experience. By leveraging AI, the application supports various question types, ensuring versatility and adaptability across different educational contexts.
 
-Objectives
-Efficiency: Reduce the time and effort required to create assessments by automating question generation.
+##Objectives Efficiency: 
+Reduce the time and effort required to create assessments by automating question generation.
 Customization: Provide personalized quizzes that cater to different learning styles and objectives.
 Accuracy: Ensure high-quality questions and answers by utilizing advanced AI algorithms.
 Integration: Seamlessly integrate with existing Learning Management Systems (LMS) and educational tools.
