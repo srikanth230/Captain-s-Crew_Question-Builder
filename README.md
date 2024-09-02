@@ -1,4 +1,3 @@
-Here is the provided content formatted as a README file for a GitHub repository:
 
 ---
 
@@ -126,4 +125,3 @@ This document provides a detailed overview of the Automated Question Builder app
 
 ---
 
-This README file is structured to give potential users and contributors a clear understanding of the application, its features, and how it can be used or developed further.
