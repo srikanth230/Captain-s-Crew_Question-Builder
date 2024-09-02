@@ -10,6 +10,8 @@ Team Member's Name
 
 # Automated Question Builder
 
+[Figma Prototype](https://www.figma.com/proto/5OgjIRWXYsQ3m0x9thU2pU/Q-BUILD?node-id=186-74&node-type=&t=s1LsSdRjLWdrgpO6-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=186%3A74)
+
 ## Overview
 The **Automated Question Builder** is an AI-driven web application designed to streamline the creation and management of quizzes and assessments. This tool is tailored for educators, trainers, and content developers to generate customized questions efficiently, saving time while enhancing the learning experience. By leveraging AI, the application supports various question types, ensuring versatility and adaptability across different educational contexts.
 
